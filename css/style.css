@@ -299,22 +299,22 @@ h6 {
 }
 h1,
 .h1 {
-  font-size: 80px;
+  font-size: 60px;
 }
 h2,
 .h2 {
-  font-size: 63px;
+  font-size: 50px;
 }
 h3,
 .h3 {
-  font-size: 30px;
+  font-size: 20px;
 }
 h4,
 .h4 {
-  font-size: 20px;
+  font-size: 15px;
 }
 p {
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.72222;
   margin: 0 0 15px;
 }
@@ -322,9 +322,9 @@ li{list-style-type:none}
 .white {color:white}
 .hidden { visibility: hidden;}
 .lead {
-  margin-bottom: 30px;
-  margin-top: 20px;
-  font-size: 20px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  font-size: 15px;
   line-height: 1.46428571;
   font-weight: 300;
 }
